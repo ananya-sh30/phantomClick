@@ -1,6 +1,5 @@
-# ⚡PhantomClick
+# ⚡PhantomClick - AI Driven Scam Link Forensics
 ### *Investigate Before You Interact*
-**AI-Driven Scam Link Forensics**
 
 > Developed by Team Scriptix
 
